@@ -1,8 +1,8 @@
-<p align="left">Hey, What's up?</p>
+<h1 align="center">Hey, What's up?👋 </h1>
 
 ###
 
-<p align="left">Senior Software Engineer with 6+ years of experience in building scalable web and mobile apps. From eCommerce to startups, I've had my hands in the code to make things work and work well. I'm all about optimizing performance, improving user experience, and delivering cloud solutions that make life easier. 🚀</p>
+<p align="left">Senior Software Engineer with 6+ years of experience in building scalable <b>web</b> and <b>mobile apps</b>. From <b>eCommerce</b> to <b>startups</b>, I've had my hands in the code to make things work and work well.
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
